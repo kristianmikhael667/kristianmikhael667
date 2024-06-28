@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I am from Central Jakarta, Indonesia<br><br>- 📚 I am currently learning programming for mobile devices with Flutter and web development a.k.a Front-End. <br><br>- ⚡ In my free time I like to exercise coding, playing video games, and gardening. <br><br>- 💻 Get to know my experience &#128073;&#127995; https://inaslathifah.netlify.app/</p>
+<p align="left">I am from Central Jakarta, Indonesia<br><br>- 📚 I am currently learning programming for mobile devices with Flutter and web development a.k.a Front-End. <br><br>- ⚡ In my free time I like to exercise coding, playing video games, and gardening. <br><br>- 💻 Get to know my experience &#128073;&#127995; https://kristianmikhael667.github.io/portfolio-mikhael-kristian/</p>
 
 ###
 
