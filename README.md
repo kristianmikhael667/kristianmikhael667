@@ -22,10 +22,6 @@
   </a>
 </div>
 
-<div align="center">
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finaslathifah&label=Visitors&countColor=%232c94e4&style=flat)
-</div>
-
 ###
 
 <h3 align="left">&#128187; About Me</h3>
