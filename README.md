@@ -7,51 +7,130 @@
 <h1 align="center">Hi, I'm Mikhael Kristian 👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/mikhaelkristian/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="24"
+      alt="linkedin logo"
+    />
   </a>
-<a href="https://www.instagram.com/mikhaelkristian_/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C71585&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  <a href="https://www.instagram.com/mikhaelkristian_/">
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C71585&logoColor=white&labelColor=&style=for-the-badge"
+      height="24"
+      alt="instagram logo"
+    />
   </a>
 </div>
 
 <div align="center">
-
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finaslathifah&label=Visitors&countColor=%232c94e4&style=flat)
-
 </div>
 
 ###
 
-<h3 align="left">&#129493;&#128187;  About Me</h3>
+<h3 align="left">&#128187; About Me</h3>
 
 ###
 
-<img align="left" height="190" src="1674617947228.gif"  />
+<img align="left" height="190" src="1674617947228.gif" />
 
 ###
 
-<p align="left">I am from Central Jakarta, Indonesia<br><br>- 📚 I am currently learning programming for mobile devices with Flutter and web development a.k.a Front-End. <br><br>- ⚡ In my free time I like to exercise coding, playing video games, and gardening. <br><br>- 💻 Get to know my experience &#128073;&#127995; https://kristianmikhael667.github.io/portfolio-mikhael-kristian/</p>
+<p align="left">
+  I am from Central Jakarta, Indonesia<br /><br />- 📚 I am currently learning
+  programming for mobile devices with Flutter and web development a.k.a
+  Front-End. <br /><br />- ⚡ In my free time I like to exercise coding, playing
+  video games, and gardening. <br /><br />- 💻 Get to know my experience
+  &#128073;&#127995;
+  https://kristianmikhael667.github.io/portfolio-mikhael-kristian/
+</p>
 
 ###
 
-<br/>
+<br />
 
 <h3 align="left">🛠 Tech Skill</h3>
 
 ###
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+    title="CSS3"
+    alt="CSS"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
+    title="HTML5"
+    alt="HTML"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
+    title="JavaScript"
+    alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
+    title="TypeScript"
+    alt="TypeScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    title="Bootstrap"
+    alt="Bootstrap"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
+    title="Java"
+    alt="Java"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"
+    title="C++"
+    alt="C++"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
+    title="Flutter"
+    alt="Flutter"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
+    title="Android Studio"
+    alt="Android Studio"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+    title="Figma"
+    alt="Figma"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
+    title="Git"
+    alt="Git"
+    width="40"
+    height="40"
+  />
 </div>
 
 ###
